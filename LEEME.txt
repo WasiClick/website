@@ -1,0 +1,24 @@
+WASICLICK WEBSITE
+
+Archivos:
+- index.html
+- styles.css
+- script.js
+- Galeria/ (tus imágenes)
+
+Imágenes esperadas (puedes cambiar las rutas en index.html):
+- Galeria/logo-principal.png
+- Galeria/icono-app.png
+- Galeria/logo-alternativo.png
+- Galeria/favicon.png (opcional)
+
+APK:
+Coloca el archivo de instalación con el nombre "wasiclick.apk" en la carpeta raíz,
+al mismo nivel que index.html. El botón "Descargar APK" apunta a ese archivo.
+
+Para probar:
+Abre index.html en un navegador. Para publicar, sube la carpeta del sitio y el APK
+a tu hosting respetando la misma estructura de carpetas.
+
+Nota: si tus imágenes tienen otros nombres o extensiones, actualiza el atributo src
+correspondiente en index.html. El diseño se adapta a pantallas móviles.
